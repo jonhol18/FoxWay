@@ -1,0 +1,14 @@
+C:\Users\Jonathan\OneDrive\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\bin\Debug\Lab1_Jonathan.exe.config
+C:\Users\Jonathan\OneDrive\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\bin\Debug\Lab1_Jonathan.exe
+C:\Users\Jonathan\OneDrive\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\bin\Debug\Lab1_Jonathan.pdb
+C:\Users\Jonathan\OneDrive\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.csprojAssemblyReference.cache
+C:\Users\Jonathan\OneDrive\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.exe
+C:\Users\Jonathan\OneDrive\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.pdb
+C:\Users\Jonathan\OneDrive\År 3\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\bin\Debug\Lab1_Jonathan.exe.config
+C:\Users\Jonathan\OneDrive\År 3\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\bin\Debug\Lab1_Jonathan.exe
+C:\Users\Jonathan\OneDrive\År 3\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\bin\Debug\Lab1_Jonathan.pdb
+C:\Users\Jonathan\OneDrive\År 3\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.csprojAssemblyReference.cache
+C:\Users\Jonathan\OneDrive\År 3\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\År 3\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.exe
+C:\Users\Jonathan\OneDrive\År 3\AdvanceradC\AdvancedC\Lab1_Jonathan_Holen\Lab1_Jonathan\Lab1_Jonathan\obj\Debug\Lab1_Jonathan.pdb
